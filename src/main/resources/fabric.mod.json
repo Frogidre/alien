@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"alienvisage","version":"${version}","name":"Alien Visage","description":"Alien model assets and Fabric toggle prototype.","authors":["Vlad"],"environment":"client","entrypoints":{"client":["dev.vlad.alienvisage.AlienVisageClient"]},"depends":{"fabricloader":">=0.18.0","minecraft":"1.21.11","java":">=21","fabric-api":"*"}}
